@@ -9,6 +9,7 @@ This project is written in Python language. It can crawl a large number of email
 # Requirements
 - python 3.7+
 - pyqt5 5.12
+- pyinstaller3.5+
 
 # Quick Start
 run python main.py on command line
