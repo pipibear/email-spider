@@ -1,7 +1,7 @@
 # Description
 This project is written in Python language. It can crawl a large number of emails in a short time. You can also see the current progress through the visual interface.
 
-- main
+- main ui
 ![screenshot-1](https://github.com/pipibear/email-spider/blob/master/screenshot/screenshot-1.png)
 - export data
 ![screenshot-2](https://github.com/pipibear/email-spider/blob/master/screenshot/screenshot-2.png)
